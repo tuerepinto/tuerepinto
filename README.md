@@ -4,8 +4,8 @@
 
 ## Aplicações criadas em
 
-![.Net](https://img.shields.io/badge/-DotNet-333333?style=flat&logo=DotNet)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=JAVA)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=JAVA)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
